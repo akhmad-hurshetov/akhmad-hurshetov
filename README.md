@@ -19,3 +19,4 @@
 
 
 ## TOP PROGRAMMING LANGUAGES
+![Top Langs](https://github-readme-stats.vercal.app/api/top-langs/?username=AhmadKhurshetov&theme=radical&title_color=8E2DE2&text_color=fff)
