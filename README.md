@@ -14,7 +14,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/AhmadKhurshetov/22-school)
 
 ## GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=AhmadKhurshetov&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadKhurshetov&theme=radical"/>|
 |---|---|
 
 
