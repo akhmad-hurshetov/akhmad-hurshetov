@@ -1,7 +1,9 @@
-### Hi there, I'm Jesse - aka 👋
+![](http://i.imgur.com/y8g506n.png?1)
+
+### Hi there, I'm Ahmad 👋
 
 
-## I'm a Student, Web-developer and Speaker!
+## I'm a Student, Web-developer and Kindman!
 
 - 🔭 I am launching my first real project! Soon...
 - 🌱 I’m currently learning everything 🤣
