@@ -11,6 +11,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and play football / basketball
 
+![GitHub last commit](https://img.shields.io/github/last-commit/AhmadKhurshetov/22-school)
+
 ### Connect with me:
 
 [<img align="left" alt="a_khurshetov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
