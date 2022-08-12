@@ -11,8 +11,8 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and play football / basketball
 
-![GitHub last commit](https://img.shields.io/github/last-commit/AhmadKhurshetov/22-school)
+![GitHub last commit](https://img.shields.io/github/last-commit/akhmad-hurshetov/TEDxMDIST)
 
 ## GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadKhurshetov&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadKhurshetov&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=akhmad-hurshetov&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhmad-hurshetov&theme=radical"/>|
 |---|---|
