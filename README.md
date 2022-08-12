@@ -1,9 +1,9 @@
 ![](http://i.imgur.com/y8g506n.png?1)
 
-### Hi there, I'm Akhmad 👋
+### Yoo whuzzup! I'm Akhmad 👋
 
 
-## I'm a Student, Web-developer and also Kindman! 😊
+## I'm a high-school graduate, Web-developer and also Typist(90wpm)! ⌨️
 
 - 🔭 I have launched several real projects! Check out)
 - 🌱 I’m currently learning the concepts of JavaScript
